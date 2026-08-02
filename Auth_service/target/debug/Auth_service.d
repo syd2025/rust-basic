@@ -1,0 +1,1 @@
+D:\projects\rust-basic\Auth_service\target\debug\Auth_service.exe: D:\projects\rust-basic\Auth_service\src\auth_utils\models.rs D:\projects\rust-basic\Auth_service\src\auth_utils.rs D:\projects\rust-basic\Auth_service\src\database.rs D:\projects\rust-basic\Auth_service\src\lib.rs D:\projects\rust-basic\Auth_service\src\main.rs
